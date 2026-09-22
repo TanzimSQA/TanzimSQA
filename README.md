@@ -1,298 +1,88 @@
-<div align="center">
+# Tanzim Rahman
 
-# Hi there, I'm Tanzim Rahman 👋
-### **Software Quality Assurance (SQA) Engineer & Security Testing Enthusiast**
+**Software Quality Assurance (SQA) Engineer**  
+Dhaka, Bangladesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimbpl)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
-[![Location](https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dhaka,Bangladesh)
-
-<br/>
-
-> *"Quality is not an act, it is an ingrained habit. I break software thoughtfully so users can use it flawlessly."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Tanzim%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQA%20Tester%20%7C%20Manual%20Testing%20%7C%20Web%20Security%20%7C%20Bug%20Hunter&descAlignY=62&descSize=18" width="100%" alt="Tanzim Rahman Header"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimbpl)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TanzimSQA)
+[![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Motivated and detail-oriented **Software Quality Assurance (SQA) Engineer** with a solid foundation in **Manual Testing**, **API Testing (Postman)**, **Web Application Security Testing**, and the entire **Software Testing Life Cycle (STLC)**. 
+I am a Software Quality Assurance Engineer focused on manual functional testing, API testing with Postman, and web application security fundamentals. I specialize in designing structured test documentation—including test plans, comprehensive test cases, and actionable bug reports—that help engineering teams deliver stable and user-friendly software.
 
-- 🔍 Passionate about uncovering edge-case bugs, designing meticulous test documentation, and validating seamless user experiences across devices and browsers.
-- 🛡️ Experienced in security auditing and penetration testing basics, identifying vulnerabilities like **SQL Injection (SQLi)**, **Cross-Site Scripting (XSS)**, **LFI/RFI**, and **Open Redirects**.
-- 📈 Continually advancing knowledge towards **Test Automation** frameworks and building scalable quality engineering workflows.
-- 📍 Based in **Dhaka, Bangladesh** | Open to remote and on-site opportunities worldwide.
+My approach combines thorough exploratory testing with boundary and negative test scenarios to catch defects before they reach production. I am also continuously expanding my technical toolkit toward test automation.
 
 ---
 
-## 🛠️ Core Competencies & Skills
+## Featured Projects & Test Deliverables
 
-### 🧪 Software Testing & QA
-```
-• Manual Test Execution       • Smoke & Sanity Testing       • Regression Testing
-• API Testing (Postman)       • Cross-Browser Testing        • Responsive & Mobile QA
-• Test Scenario Design        • Test Case Writing (Excel)    • Bug Reporting & Life Cycle
-• Chrome & Browser DevTools   • SDLC & STLC Methodologies    • User Acceptance Testing (UAT)
-```
+### 🚆 [Bangladesh Railway E-Ticketing System — QA Test Suite](https://github.com/TanzimSQA/bangladesh-railway-qa-test-cases)
+A complete quality assurance audit of the live [Bangladesh Railway e-Ticketing Portal](https://eticket.railway.gov.bd).
+- **225 Manual Test Cases**: Full coverage across train search, seat class selection, passenger registration, and NID identity verification.
+- **IEEE 829 Test Plan & System Mind Map**: Documented test scope, test strategy, entry/exit criteria, and application architecture.
+- **Defect Reporting & Triage**: Detailed bug reports with reproduction steps, expected vs. actual outcomes, severity/priority ratings, and test execution matrices.
+- **Outcome**: 100% execution rate with a 99.56% pass rate and identified critical edge-case defects.
 
-### 🛡️ Security & Vulnerability Assessment
-```
-• OWASP Top 10 Awareness      • SQL Injection (SQLi)         • Cross-Site Scripting (XSS)
-• Local & Remote File Inc.    • Open Redirect Testing        • Network Packet Analysis
-• Web Application Firewalls   • Port Scanning & Discovery    • Security Audit Reporting
-```
+### 📁 [QA Documentation & Test Artifacts Portfolio](https://drive.google.com/drive/folders/16d2SaSIqb8ZNy0CK6MgYt-oRzSXmg2n5?usp=sharing)
+A collection of my testing workbooks and deliverables:
+- Formatted Excel test case repositories (card-style design, preconditions, test data, actual results).
+- Bug tracking sheets with severity/priority categorization and defect lifecycles.
+- Requirement Traceability Matrices (RTM) and execution summary reports.
 
 ---
 
-## 🧰 Tools & Technologies
+## Skills & Technical Tooling
 
-<div align="left">
-
-#### 🧪 Testing & Debugging
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=flat-square&logo=testcafe&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-4CAF50?style=flat-square&logo=files&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-E53935?style=flat-square&logo=jira&logoColor=white)
-
-#### 🛡️ Security & Network Analysis
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=flat-square&logo=linux&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-8E44AD?style=flat-square&logo=gnubash&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-D35400?style=flat-square&logo=terminal&logoColor=white)
-![WafW00f](https://img.shields.io/badge/WafW00f-16A085?style=flat-square&logo=shield&logoColor=white)
-
-#### 💻 Environment & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</div>
+| Area | Focus & Technologies |
+| :--- | :--- |
+| **Testing Disciplines** | Manual Testing, Functional Testing, Regression Testing, Smoke & Sanity Testing, User Acceptance Testing (UAT) |
+| **Test Design Techniques** | Boundary Value Analysis (BVA), Equivalence Partitioning (EP), Decision Tables, Exploratory Testing |
+| **API Testing** | Postman (Collections, Environment Variables, Request/Response Assertions) |
+| **Documentation & Management** | Test Plans (IEEE 829), Test Scenarios, Test Cases, Bug Reports, Traceability Matrices (Excel, Google Sheets) |
+| **Inspection & Debugging** | Chrome DevTools (Network tab, Console errors, DOM elements, Device emulation) |
+| **Security Assessment** | OWASP Top 10 awareness, Web vulnerability checks (SQLi, XSS, broken access control), Burp Suite, Wireshark, Nmap |
+| **Tools & Platforms** | Git, GitHub, XMind (Mind Mapping), Windows, Linux |
 
 ---
 
-## 📂 Sample Work & Test Artifacts
+## Certifications & Training
 
-I believe high-quality documentation is the backbone of exceptional QA. You can inspect my live test cases and QA documentation samples below:
-
-[![Google Drive Sample Works](https://img.shields.io/badge/Google_Drive-View_Test_Cases_&_Artifacts-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16d2SaSIqb8ZNy0CK6MgYt-oRzSXmg2n5?usp=sharing)
-
-> **Included in my deliverables:**
-> - Detailed Test Scenarios & Comprehensive Test Cases
-> - Step-by-Step Bug Reports with Severity, Priority, Preconditions & Evidence
-> - Functional, Cross-Browser, and Boundary Value Analysis matrices
-
----
-
-## 📜 Certifications & Training
-
-| Certificate | Issuing Organization |
-|:---|:---|
-| **API Testing Learning Path - Completion Certificate (V12)** | Postman |
-| **API Beginner Learning Path - Completion Certificate** | Postman |
-| **Introduction to Software Testing** | Simplilearn SkillUp |
-| **Automation Testing Basics** | Simplilearn SkillUp |
-| **Setting a Foundation for Successful Test Automation** | Test Automation University |
-| **Workshop on SQA Free Live Course** | IT Training BD |
-| **Introduction to the Threat Landscape 3.0** | Fortinet |
-| **Certified Ethical Hacker** | Team Matrix - Elite Hackers |
+- **API Testing Learning Path - Completion Certificate (V12)** — *Postman*
+- **API Beginner Learning Path - Completion Certificate** — *Postman*
+- **Introduction to Software Testing** — *Simplilearn SkillUp*
+- **Automation Testing Basics** — *Simplilearn SkillUp*
+- **Setting a Foundation for Successful Test Automation** — *Test Automation University*
+- **Introduction to the Threat Landscape 3.0** — *Fortinet*
+- **Certified Ethical Hacker** — *Team Matrix*
+- **Workshop on SQA Free Live Course** — *IT Training BD*
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Bachelor of Social Sciences (B.S.S.) in Economics**  
-  *National University of Bangladesh* | Graduated: 2024  
-  *CGPA:* 2.92 / 4.00
+  *National University of Bangladesh* | Graduated: 2024
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanzimSQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanzim's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzimSQA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanzimSQA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TanzimSQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanzim Rahman GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzimSQA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 ---
 
-## 📬 Connect With Me
+## Get in Touch
 
-Feel free to reach out if you have QA / SQA roles, testing collaborations, or security testing discussions!
+I am open to SQA Engineer roles, QA consulting, and collaborative testing projects. Feel free to connect:
 
-- 💼 **LinkedIn:** [linkedin.com/in/tanzimbpl](https://www.linkedin.com/in/tanzimbpl)
-- 📧 **Email:** [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
-- 📞 **Phone / WhatsApp:** `+8801992321575`
-- 🌐 **GitHub:** [@TanzimSQA](https://github.com/TanzimSQA)
-- 📍 **Location:** Dhaka, Bangladesh
-
-<div align="center">
-
----
-⭐️ *Thanks for visiting my profile! Feel free to star my repositories if you find my work helpful.* ⭐️
-
-</div>
-<div align="center">
-
-# Hi there, I'm Tanzim Rahman 👋
-### **Software Quality Assurance (SQA) Engineer & Security Testing Enthusiast**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimbpl)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
-[![Location](https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Dhaka,Bangladesh)
-
-<br/>
-
-> *"Quality is not an act, it is an ingrained habit. I break software thoughtfully so users can use it flawlessly."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=180&section=header&text=Tanzim%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SQA%20Tester%20%7C%20Manual%20Testing%20%7C%20Web%20Security%20%7C%20Bug%20Hunter&descAlignY=62&descSize=18" width="100%" alt="Tanzim Rahman Header"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Motivated and detail-oriented **Software Quality Assurance (SQA) Engineer** with a solid foundation in **Manual Testing**, **API Testing (Postman)**, **Web Application Security Testing**, and the entire **Software Testing Life Cycle (STLC)**. 
-
-- 🔍 Passionate about uncovering edge-case bugs, designing meticulous test documentation, and validating seamless user experiences across devices and browsers.
-- 🛡️ Experienced in security auditing and penetration testing basics, identifying vulnerabilities like **SQL Injection (SQLi)**, **Cross-Site Scripting (XSS)**, **LFI/RFI**, and **Open Redirects**.
-- 📈 Continually advancing knowledge towards **Test Automation** frameworks and building scalable quality engineering workflows.
-- 📍 Based in **Dhaka, Bangladesh** | Open to remote and on-site opportunities worldwide.
-
----
-
-## 🛠️ Core Competencies & Skills
-
-### 🧪 Software Testing & QA
-```
-• Manual Test Execution       • Smoke & Sanity Testing       • Regression Testing
-• API Testing (Postman)       • Cross-Browser Testing        • Responsive & Mobile QA
-• Test Scenario Design        • Test Case Writing (Excel)    • Bug Reporting & Life Cycle
-• Chrome & Browser DevTools   • SDLC & STLC Methodologies    • User Acceptance Testing (UAT)
-```
-
-### 🛡️ Security & Vulnerability Assessment
-```
-• OWASP Top 10 Awareness      • SQL Injection (SQLi)         • Cross-Site Scripting (XSS)
-• Local & Remote File Inc.    • Open Redirect Testing        • Network Packet Analysis
-• Web Application Firewalls   • Port Scanning & Discovery    • Security Audit Reporting
-```
-
----
-
-## 🧰 Tools & Technologies
-
-<div align="left">
-
-#### 🧪 Testing & Debugging
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=flat-square&logo=testcafe&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-4CAF50?style=flat-square&logo=files&logoColor=white)
-![Bug Tracking](https://img.shields.io/badge/Bug_Tracking-E53935?style=flat-square&logo=jira&logoColor=white)
-
-#### 🛡️ Security & Network Analysis
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=flat-square&logo=linux&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-8E44AD?style=flat-square&logo=gnubash&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-D35400?style=flat-square&logo=terminal&logoColor=white)
-![WafW00f](https://img.shields.io/badge/WafW00f-16A085?style=flat-square&logo=shield&logoColor=white)
-
-#### 💻 Environment & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</div>
-
----
-
-## 📂 Sample Work & Test Artifacts
-
-I believe high-quality documentation is the backbone of exceptional QA. You can inspect my live test cases and QA documentation samples below:
-
-[![Google Drive Sample Works](https://img.shields.io/badge/Google_Drive-View_Test_Cases_&_Artifacts-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/16d2SaSIqb8ZNy0CK6MgYt-oRzSXmg2n5?usp=sharing)
-
-> **Included in my deliverables:**
-> - Detailed Test Scenarios & Comprehensive Test Cases
-> - Step-by-Step Bug Reports with Severity, Priority, Preconditions & Evidence
-> - Functional, Cross-Browser, and Boundary Value Analysis matrices
-
----
-
-## 📜 Certifications & Training
-
-| Certificate | Issuing Organization |
-|:---|:---|
-| **API Testing Learning Path - Completion Certificate (V12)** | Postman |
-| **API Beginner Learning Path - Completion Certificate** | Postman |
-| **Introduction to Software Testing** | Simplilearn SkillUp |
-| **Automation Testing Basics** | Simplilearn SkillUp |
-| **Setting a Foundation for Successful Test Automation** | Test Automation University |
-| **Workshop on SQA Free Live Course** | IT Training BD |
-| **Introduction to the Threat Landscape 3.0** | Fortinet |
-| **Certified Ethical Hacker** | Team Matrix - Elite Hackers |
-
----
-
-## 🎓 Education
-
-- **Bachelor of Social Sciences (B.S.S.) in Economics**  
-  *National University of Bangladesh* | Graduated: 2024  
-  *CGPA:* 2.92 / 4.00
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanzimSQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tanzim's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanzimSQA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanzimSQA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-Feel free to reach out if you have QA / SQA roles, testing collaborations, or security testing discussions!
-
-- 💼 **LinkedIn:** [linkedin.com/in/tanzimbpl](https://www.linkedin.com/in/tanzimbpl)
-- 📧 **Email:** [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
-- 📞 **Phone / WhatsApp:** `+8801992321575`
-- 🌐 **GitHub:** [@TanzimSQA](https://github.com/TanzimSQA)
-- 📍 **Location:** Dhaka, Bangladesh
-
-<div align="center">
-
----
-⭐️ *Thanks for visiting my profile! Feel free to star my repositories if you find my work helpful.* ⭐️
-
-</div>
+- **Email**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tanzimbpl](https://www.linkedin.com/in/tanzimbpl)
+- **WhatsApp / Phone**: `+8801992321575`
+- **Location**: Dhaka, Bangladesh
