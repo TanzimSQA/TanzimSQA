@@ -20,7 +20,7 @@ My approach combines thorough exploratory testing with boundary and negative tes
 
 ## Featured Projects & Test Deliverables
 
-### 🚆 [Bangladesh Railway E-Ticketing System — QA Test Suite](https://github.com/TanzimSQA/bangladesh-railway-qa-test-cases)
+### 🚆 [Manual Testing For BANGLADESH Railway Web Application](https://github.com/TanzimSQA/Manual-Testing-For-BANGLADESH-Railway-Web-Application)
 A complete quality assurance audit of the live [Bangladesh Railway e-Ticketing Portal](https://eticket.railway.gov.bd).
 - **225 Manual Test Cases**: Full coverage across train search, seat class selection, passenger registration, and NID identity verification.
 - **IEEE 829 Test Plan & System Mind Map**: Documented test scope, test strategy, entry/exit criteria, and application architecture.
