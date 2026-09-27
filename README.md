@@ -13,6 +13,7 @@
 
 <div align="center">
 
+[![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-tanzimsqa.github.io-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzimsqa.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzim_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimbpl/)
 [![GitHub](https://img.shields.io/badge/GitHub-TanzimSQA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
 [![Portfolio Drive](https://img.shields.io/badge/Google_Drive-Master_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D)
