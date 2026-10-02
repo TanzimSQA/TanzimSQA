@@ -199,15 +199,17 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
   *Comprehensive practical training covering manual STLC, test design, automation with Python & Playwright, Postman API testing, and JMeter performance engineering.*
 
 ### 🏅 Verified Certifications
-- **Introduction to Software Testing** &bull; *SimpliLearn SkillUp*
-- **Automation Testing Basics** &bull; *SimpliLearn SkillUp*
+- **API Testing Path (v12) Certificate** &bull; *Postman Academy* (Sep 2026 &bull; ID: `z8b9nfm7jb73` &bull; [Verify Credential](https://verify.skilljar.com/c/z8b9nfm7jb73))
+- **API Beginner Path Certificate** &bull; *Postman Academy* (Sep 2026 &bull; ID: `h3em6dcfjq94` &bull; [Verify Credential](https://verify.skilljar.com/c/h3em6dcfjq94))
+- **Setting a Foundation for Successful Test Automation** &bull; *Test Automation University* (Aug 2026 &bull; ID: `12784120` &bull; [Verify Credential](https://testautomationu.applitools.com/certificate/?id=12784120))
+- **Automation Testing Basics** &bull; *SimpliLearn SkillUp* (May 2026 &bull; ID: `10191555`)
+- **Introduction to Software Testing** &bull; *SimpliLearn SkillUp* (May 2026 &bull; ID: `10189938`)
+- **Fortinet Certified Fundamentals in Cybersecurity** &bull; *Fortinet* (Sep 2025 – Sep 2027 &bull; ID: `2749765122TR` &bull; [Credly Badge](https://www.credly.com/badges/77dcaebe-b049-49cf-8b5b-ceb8f3a4b135/linked_in_profile))
+- **Introduction to the Threat Landscape 3.0** &bull; *Fortinet* (Sep 2025 &bull; [Credly Badge](https://www.credly.com/badges/95f96749-8c95-493d-abb0-652fd99f09f6/linked_in_profile))
+- **Getting Started in Cybersecurity 3.0** &bull; *Fortinet* (Aug 2025 &bull; [Credly Badge](https://www.credly.com/badges/84189183-a1dd-4061-9e14-05882bcd2ac0/linked_in_profile))
+- **Workshop on SQA Free Live Course** &bull; *IT Training BD* (Jul 2026)
 - **Certified Ethical Hacker (CEH)** &bull; *Team Matrix - Elite Hackers*
-- **Fortinet Certified Fundamentals in Cybersecurity** &bull; *Fortinet*
-- **Introduction to the Threat Landscape 3.0** &bull; *Fortinet*
 - **MikroTik Certified Network Associate (MTCNA)** &bull; *MikroTik*
-- **Postman API Testing Learning Path (V12)** &bull; *Postman*
-- **Postman API Beginner Learning Path** &bull; *Postman*
-- **Setting a Foundation for Successful Test Automation** &bull; *Test Automation University*
 
 ---
 
