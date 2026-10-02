@@ -1,8 +1,8 @@
 # <div align="center">👨‍💻 Tanzim Rahman</div>
 
-<h3 align="center">Full Stack Software Quality Assurance (SQA) Engineer</h3>
+<h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
 <p align="center">
-  <b>Manual QA &bull; Test Automation (Playwright &amp; Python) &bull; API Testing (Postman) &bull; Performance &amp; Load Testing (JMeter)</b>
+  <b>SQA at Koy Jabo &bull; Manual QA &bull; Test Automation (Playwright &amp; Python) &bull; API Testing (Postman) &bull; Performance &amp; Load Testing (JMeter)</b>
 </p>
 
 <p align="center">
@@ -26,9 +26,9 @@
 
 <div align="center">
 
-| 🧪 Test Coverage | 🤖 Automation Framework | ⚡ CI/CD Execution | 🎯 Quality Delivery |
+| 🏢 Current Role | 🧪 Test Coverage | 🤖 Automation Framework | ⚡ CI/CD Execution |
 | :---: | :---: | :---: | :---: |
-| **280+ Executed Cases** | **Playwright + Pytest (POM)** | **Daily Scheduled Runs** | **99.5%+ Pass Reliability** |
+| **SQA at Koy Jabo** | **280+ Executed Cases** | **Playwright + Pytest (POM)** | **Daily Scheduled Runs** |
 
 </div>
 
@@ -36,12 +36,34 @@
 
 ## 🌟 About Me
 
-I am a detail-oriented **Software Quality Assurance (SQA) Engineer** with a strong analytical foundation in Economics and comprehensive training in Full Stack Software Quality Assurance. I bridge the gap between user expectations and system stability through thorough exploratory testing, structured test documentation, and scalable test automation frameworks.
+I am a detail-oriented **Software Quality Assurance (SQA) Engineer** at **Koy Jabo**, dedicated to ensuring digital products are reliable, secure, and intuitive before they ever reach the end user.
 
-- 🔍 **Analytical Edge**: Combining data-driven reasoning with Boundary Value Analysis, Equivalence Partitioning, and edge-case discovery to prevent critical defects before production.
-- ⚙️ **End-to-End Testing Lifecycle**: Experienced across the entire **STLC** & **SDLC**—from requirement analysis, test planning (IEEE 829), and test case authoring to defect triage in Jira and automated regression pipelines.
-- 🚀 **Automation & CI/CD**: Building enterprise Page Object Model (POM) test suites in **Python + Playwright + Pytest**, integrated with **GitHub Actions** for continuous scheduled runs and live HTML reporting.
-- 📡 **API & Performance**: Proficient in REST API validation with **Postman/Newman** and throughput/stress analysis using **Apache JMeter**.
+With a strong foundation in both functional and non-functional testing alongside an analytical background in Economics, I specialize in dissecting complex requirements into comprehensive test strategies—uncovering critical edge cases, validating business logic, and preventing regressions. In addition to core manual testing, I bring hands-on experience in API testing (Postman/Newman), performance & load testing (Apache JMeter), and security testing (OWASP, vulnerability assessments).
+
+I approach software quality through both a user-centric lens and a systematic, risk-based mindset: if something can break, I aim to find and document it with clear, reproducible bug reports.
+
+### 🔹 What I Bring to a Team:
+- 🧪 **Manual & Functional Testing**: Smoke, Sanity, Regression, UI/UX, Cross-Browser & Mobile Testing.
+- 📡 **API & Backend Validation**: Postman, Newman, REST API testing & status/schema verification.
+- 🤖 **Automation & CI/CD**: Scalable Page Object Model (POM) frameworks using **Python + Playwright + Pytest**, integrated with **GitHub Actions**.
+- ⚡ **Performance & Stress Testing**: JMeter test plans, load/stress analysis, response time benchmarking.
+- 🛡️ **Security Awareness**: OWASP ZAP, Burp Suite, vulnerability identification, Certified Ethical Hacker (CEH) foundation.
+- 🤝 **Collaboration & Tooling**: Jira defect management, Git/GitHub, Chrome DevTools, Agile/Scrum, SDLC & STLC lifecycle.
+
+🌱 **Open to**: Junior SQA Engineer / QA Analyst / Software Tester roles (On-site / Hybrid / Remote).  
+📩 **Connect with me**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimbpl/)
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Software Quality Assurance (SQA) Intern &bull; **Koy Jabo**
+*Oct 2026 – Present &bull; Dhaka, Bangladesh (Remote)*
+
+- **Software Quality & User Experience**: Contributing to digital product reliability, end-to-end testing, and delivering an elevated experience for users.
+- **Comprehensive Test Strategies**: Dissecting feature requirements into structured test cases, validating business logic, and uncovering edge-case flaws to prevent regression escapes.
+- **Disciplined Defect Reporting**: Authoring reproducible, high-signal bug reports with clear preconditions, steps to reproduce, console logs, and visual proof in Jira.
+- **Agile Collaboration**: Partnering actively with developers, product managers, and engineering teams across the SDLC & STLC to accelerate triage and resolution cycles.
 
 ---
 
