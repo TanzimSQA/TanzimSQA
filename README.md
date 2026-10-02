@@ -185,7 +185,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
   <tr>
     <td><b>Security &amp; Networking</b></td>
     <td>
-      <code>OWASP Top 10 Awareness</code> &bull; <code>Certified Ethical Hacker (CEH)</code> &bull; <code>Burp Suite</code> &bull; <code>Nmap</code> &bull; <code>Wireshark</code> &bull; <code>MikroTik (MTCNA)</code>
+      <code>OWASP Top 10 Awareness</code> &bull; <code>Certified Ethical Hacker (CEH)</code> &bull; <code>Burp Suite</code> &bull; <code>Nmap</code> &bull; <code>Wireshark</code> &bull; <code>MikroTik (MTCNA, MTCRE, MTCSE)</code>
     </td>
   </tr>
 </table>
@@ -210,6 +210,8 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
 - **Workshop on SQA Free Live Course** &bull; *IT Training BD* (Jul 2026)
 - **Certified Ethical Hacker (CEH)** &bull; *Team Matrix - Elite Hackers*
 - **MikroTik Certified Network Associate (MTCNA)** &bull; *MikroTik*
+- **MikroTik Certified Routing Engineer (MTCRE)** &bull; *MikroTik*
+- **MikroTik Certified Security Engineer (MTCSE)** &bull; *MikroTik*
 
 ---
 
