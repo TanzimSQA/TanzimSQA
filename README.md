@@ -187,7 +187,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
     <td>
       <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Claude_Code-CC6B49?style=flat-square&logo=terminal&logoColor=white" />
-      <code>Prompt Engineering</code> &bull; <code>Agentic Workflows</code> &bull; <code>AI-Assisted Testing</code>
+      <code>AI Fluency</code> &bull; <code>Prompt Engineering</code> &bull; <code>Agentic Workflows</code> &bull; <code>AI-Assisted Testing</code>
     </td>
   </tr>
   <tr>
@@ -207,6 +207,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
   *Comprehensive practical training covering manual STLC, test design, automation with Python & Playwright, Postman API testing, and JMeter performance engineering.*
 
 ### 🏅 Verified Certifications
+- **AI Fluency: Framework and foundations** &bull; *Anthropic (Claude Academy)* (Oct 2026 &bull; ID: `389baaf2aa6f1f2721451ed0a14551f1` &bull; [Verify Credential](https://academy.claude.com/verify/389baaf2aa6f1f2721451ed0a14551f1))
 - **Introduction to Claude Cowork** &bull; *Anthropic (Claude Academy)* (Oct 2026 &bull; ID: `778d34c5d8cdb37b7c396df11ea24178` &bull; [Verify Credential](https://academy.claude.com/verify/778d34c5d8cdb37b7c396df11ea24178))
 - **Claude Code 101** &bull; *Anthropic (Claude Academy)* (Oct 2026 &bull; ID: `46d22c3210efd5a285b00d9deed990c4` &bull; [Verify Credential](https://academy.claude.com/verify/46d22c3210efd5a285b00d9deed990c4))
 - **API Testing Path (v12) Certificate** &bull; *Postman Academy* (Sep 2026 &bull; ID: `z8b9nfm7jb73` &bull; [Verify Credential](https://verify.skilljar.com/c/z8b9nfm7jb73))
