@@ -285,6 +285,17 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
 
 <div align="center">
   <sub>
-    <b>Search Index &amp; Entity Aliases:</b> Tanzim Rahman &bull; TanzimSQA &bull; tanzimsqa &bull; Tanzim SQA &bull; Software Quality Assurance Engineer &bull; QA Automation Engineer &bull; Playwright Automation &bull; Pytest Python SDET &bull; Postman API Testing &bull; Apache JMeter Performance &bull; Koy Jabo SQA &bull; SQA Engineer Bangladesh &bull; Manual Testing &amp; Bug Reporting
+    <!-- Exact Search Keywords Index for Google & GitHub Crawler: tanzim, tanzim sqa, tanzimsqa, tanzim rahman -->
+    <b>Exact Match Keywords &amp; Entity Aliases:</b> 
+    <code>tanzim</code> &bull; 
+    <code>tanzim sqa</code> &bull; 
+    <code>tanzimsqa</code> &bull; 
+    <code>tanzim rahman</code> &bull; 
+    <code>Tanzim Rahman (TanzimSQA)</code> &bull; 
+    <code>Tanzim SQA Engineer</code> &bull; 
+    Software Quality Assurance &bull; 
+    Koy Jabo SQA &bull; 
+    Playwright Automation &bull; 
+    Postman API Testing
   </sub>
 </div>
