@@ -14,7 +14,7 @@
 <div align="center">
 
 [![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-tanzimsqa.github.io-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzimsqa.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzim_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimbpl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzim_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimsqa/)
 [![GitHub](https://img.shields.io/badge/GitHub-TanzimSQA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
 [![Portfolio Drive](https://img.shields.io/badge/Google_Drive-Master_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D)
 [![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
@@ -51,7 +51,7 @@ I approach software quality through both a user-centric lens and a systematic, r
 - 🤝 **Collaboration & Tooling**: Jira defect management, Git/GitHub, Chrome DevTools, Agile/Scrum, SDLC & STLC lifecycle.
 
 🌱 **Open to**: Junior SQA Engineer / QA Analyst / Software Tester roles (On-site / Hybrid / Remote).  
-📩 **Connect with me**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimbpl/)
+📩 **Connect with me**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimsqa/)
 
 ---
 
@@ -263,7 +263,7 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/tanzimbpl/">
+<a href="https://www.linkedin.com/in/tanzimsqa/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
