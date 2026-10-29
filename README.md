@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Tanzim Rahman</div>
+# <div align="center">👨‍💻 Tanzim Rahman (TanzimSQA)</div>
 
 <h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
 <p align="center">
@@ -279,4 +279,12 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
   <img src="https://img.shields.io/badge/Portfolio_Drive-View_Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    <b>Keywords &amp; Search Aliases:</b> Tanzim &bull; Tanzim Rahman &bull; TanzimSQA &bull; tanzimsqa &bull; Tanzim SQA Engineer &bull; Software Quality Assurance &bull; Koy Jabo SQA &bull; Bangladesh SQA Engineer
+  </sub>
 </div>
