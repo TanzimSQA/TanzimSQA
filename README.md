@@ -16,6 +16,7 @@
 [![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-tanzimsqa.github.io-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzimsqa.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzim_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimsqa/)
 [![GitHub](https://img.shields.io/badge/GitHub-TanzimSQA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
+[![Facebook](https://img.shields.io/badge/Facebook-tanzim.rahman.bpl-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanzim.rahman.bpl/)
 [![Portfolio Drive](https://img.shields.io/badge/Google_Drive-Master_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D)
 [![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
@@ -265,6 +266,10 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
 
 <a href="https://www.linkedin.com/in/tanzimsqa/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.facebook.com/tanzim.rahman.bpl/">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:tanzimsqa@gmail.com">
