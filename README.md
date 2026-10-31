@@ -16,7 +16,8 @@
 [![Live Portfolio Website](https://img.shields.io/badge/Live_Portfolio-tanzimsqa.github.io-00ADB5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanzimsqa.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanzim_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzimsqa/)
 [![GitHub](https://img.shields.io/badge/GitHub-TanzimSQA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
-[![Facebook](https://img.shields.io/badge/Facebook-tanzim.rahman.bpl-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanzim.rahman.bpl/)
+[![Facebook](https://img.shields.io/badge/Facebook-tanzim.rahman.sqa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanzim.rahman.sqa/)
+[![Instagram](https://img.shields.io/badge/Instagram-tanzim.sqa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanzim.sqa)
 [![Portfolio Drive](https://img.shields.io/badge/Google_Drive-Master_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D)
 [![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
@@ -268,8 +269,12 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.facebook.com/tanzim.rahman.bpl/">
+<a href="https://www.facebook.com/tanzim.rahman.sqa/">
   <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/tanzim.sqa">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:tanzimsqa@gmail.com">
@@ -290,12 +295,13 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
 
 <div align="center">
   <sub>
-    <!-- Exact Search Keywords Index for Google & GitHub Crawler: tanzim, tanzim sqa, tanzimsqa, tanzim rahman -->
+    <!-- Exact Search Keywords Index for Google & GitHub Crawler: tanzim, tanzim sqa, tanzimsqa, tanzim rahman, tanzim rahman sqa -->
     <b>Exact Match Keywords &amp; Entity Aliases:</b> 
     <code>tanzim</code> &bull; 
     <code>tanzim sqa</code> &bull; 
     <code>tanzimsqa</code> &bull; 
     <code>tanzim rahman</code> &bull; 
+    <code>tanzim rahman sqa</code> &bull; 
     <code>Tanzim Rahman (TanzimSQA)</code> &bull; 
     <code>Tanzim SQA Engineer</code> &bull; 
     Software Quality Assurance &bull; 
