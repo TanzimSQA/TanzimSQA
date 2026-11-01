@@ -261,11 +261,13 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
 
 ## 📝 Featured LinkedIn Technical SQA Publications
 
-| SQA Publication Title | Topic Focus | Direct LinkedIn Article Link |
-| :--- | :--- | :--- |
-| **System Testing & QA Architecture** | End-to-end integration boundaries, business logic verification, and defect triage. | [Read System Testing Post](https://www.linkedin.com/posts/tanzimbpl_systemtesting-softwaretesting-qualityassurance-activity-7515242941267906560-U13O) |
-| **API Testing & Automation Infrastructure** | Postman/Newman variable scoping (Global -> Collection -> Environment), token chaining, and zero-hardcoding rules. | [Read API Testing Post](https://www.linkedin.com/feed/update/urn:li:activity:7522417183298134016/) |
-| **Exploratory QA & Boundary Edge Cases** | Boundary Value Analysis, 4-byte UTF-8 emoji form testing, and zero-width spaces catching silent DB truncation. | [Read Exploratory QA Post](https://www.linkedin.com/feed/update/urn:li:activity:7522054924260712448/) |
+| SQA Publication Title | Topic Focus | Direct LinkedIn Article Link | Google SERP Status |
+| :--- | :--- | :--- | :--- |
+| **The Unpredictable User in Software Testing** | Exploratory human behavior testing, edge-case mitigation, and non-linear user journeys. | [Read on LinkedIn](https://www.linkedin.com/posts/tanzimbpl_softwaretesting-sqa-qualityassurance-activity-7508162499385606144-RxDx) | **Google Rank #3** |
+| **HTTP Status Codes Cheat Sheet for API Testing** | Practical status code diagnostics for REST APIs, Newman automation, and error assertion. | [Read on LinkedIn](https://www.linkedin.com/posts/tanzimbpl_api-http-status-codes-activity-7506749684346929152-9ILE) | **Google Rank #4** |
+| **System Testing & QA Architecture** | End-to-end integration boundaries, business logic verification, and defect triage. | [Read on LinkedIn](https://www.linkedin.com/posts/tanzimbpl_systemtesting-softwaretesting-qualityassurance-activity-7515242941267906560-U13O) | **Indexed on Google** |
+| **API Testing & Automation Infrastructure** | Postman/Newman variable scoping (Global -> Collection -> Environment) and token chaining. | [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522417183298134016/) | **Indexed on Google** |
+| **Exploratory QA & Boundary Edge Cases** | Boundary Value Analysis, 4-byte UTF-8 emoji form testing, and zero-width database truncation. | [Read on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522054924260712448/) | **Indexed on Google** |
 
 ---
 
