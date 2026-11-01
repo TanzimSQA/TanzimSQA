@@ -259,6 +259,16 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
 
 ---
 
+## 📝 Featured LinkedIn Technical SQA Publications
+
+| SQA Publication Title | Topic Focus | Direct LinkedIn Article Link |
+| :--- | :--- | :--- |
+| **System Testing & QA Architecture** | End-to-end integration boundaries, business logic verification, and defect triage. | [Read System Testing Post](https://www.linkedin.com/posts/tanzimbpl_systemtesting-softwaretesting-qualityassurance-activity-7515242941267906560-U13O) |
+| **API Testing & Automation Infrastructure** | Postman/Newman variable scoping (Global -> Collection -> Environment), token chaining, and zero-hardcoding rules. | [Read API Testing Post](https://www.linkedin.com/feed/update/urn:li:activity:7522417183298134016/) |
+| **Exploratory QA & Boundary Edge Cases** | Boundary Value Analysis, 4-byte UTF-8 emoji form testing, and zero-width spaces catching silent DB truncation. | [Read Exploratory QA Post](https://www.linkedin.com/feed/update/urn:li:activity:7522054924260712448/) |
+
+---
+
 ## 🤝 Let's Connect!
 
 I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing projects**, and **QA collaboration**. Let's talk about delivering bug-free, resilient software!
