@@ -22,6 +22,12 @@
 [![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
 
+<p align="center">
+  🌐 <b>Official Identity &amp; Professional Verification:</b><br />
+  <a href="https://www.linkedin.com/in/tanzimsqa/"><b>Tanzim Rahman (TanzimSQA) - Software Quality Assurance (SQA) Engineer on LinkedIn</b></a> &bull; 
+  <a href="https://tanzimsqa.github.io/"><b>Official Portfolio: tanzimsqa.github.io</b></a>
+</p>
+
 </div>
 
 ---
@@ -53,7 +59,7 @@ I approach software quality through both a user-centric lens and a systematic, r
 - 🤝 **Collaboration & Tooling**: Jira defect management, Git/GitHub, Chrome DevTools, Agile/Scrum, SDLC & STLC lifecycle.
 
 🌱 **Open to**: Junior SQA Engineer / QA Analyst / Software Tester roles (On-site / Hybrid / Remote).  
-📩 **Connect with me**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanzimsqa/)
+📩 **Connect with me**: [tanzimsqa@gmail.com](mailto:tanzimsqa@gmail.com) | [Tanzim Rahman (TanzimSQA) on LinkedIn](https://www.linkedin.com/in/tanzimsqa/) | [Tanzim Rahman SQA Portfolio](https://tanzimsqa.github.io/)
 
 ---
 
@@ -309,15 +315,15 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
   <sub>
     <!-- Exact Search Keywords Index for Google & GitHub Crawler: tanzim, tanzim sqa, tanzimsqa, tanzim rahman, tanzim rahman sqa -->
     <b>Exact Match Keywords &amp; Entity Aliases:</b> 
-    <code>tanzim</code> &bull; 
-    <code>tanzim sqa</code> &bull; 
-    <code>tanzimsqa</code> &bull; 
-    <code>tanzim rahman</code> &bull; 
-    <code>tanzim rahman sqa</code> &bull; 
-    <code>Tanzim Rahman (TanzimSQA)</code> &bull; 
-    <code>Tanzim SQA Engineer</code> &bull; 
-    Software Quality Assurance &bull; 
-    Koy Jabo SQA &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim sqa</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzimsqa</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>tanzim rahman sqa</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>Tanzim Rahman (TanzimSQA)</code></a> &bull; 
+    <a href="https://www.linkedin.com/in/tanzimsqa/"><code>Tanzim SQA Engineer</code></a> &bull; 
+    <a href="https://tanzimsqa.github.io/">Software Quality Assurance</a> &bull; 
+    <a href="https://www.linkedin.com/company/koy-jabo">Koy Jabo SQA</a> &bull; 
     Playwright Automation &bull; 
     Postman API Testing
   </sub>
