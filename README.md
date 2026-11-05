@@ -23,8 +23,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
 
 <p align="center">
-  🌐 <b>Official Identity &amp; Professional Verification:</b><br />
-  <a href="https://www.linkedin.com/in/tanzimsqa/"><b>Tanzim Rahman (TanzimSQA) - Software Quality Assurance (SQA) Engineer on LinkedIn</b></a> &bull; 
+  🌐 <b>Official Identity, Search Authority &amp; Professional Verification:</b><br />
+  <a href="https://www.linkedin.com/in/tanzimsqa/" rel="me"><b>Tanzim Rahman (TanzimSQA) | Tanzim SQA &bull; Tanzim Rahman SQA on LinkedIn</b></a> &bull; 
   <a href="https://tanzimsqa.github.io/"><b>Official Portfolio: tanzimsqa.github.io</b></a>
 </p>
 
