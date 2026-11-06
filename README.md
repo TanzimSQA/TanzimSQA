@@ -1,8 +1,11 @@
-# <div align="center">👨‍💻 Tanzim Rahman (TanzimSQA)</div>
+# <div align="center">👨‍💻 Tanzim Rahman — Tanzim SQA (TanzimSQA)</div>
 
-<h3 align="center">Software Quality Assurance (SQA) Engineer</h3>
+<h2 align="center">Software Quality Assurance (SQA) Engineer at Koy Jabo</h2>
 <p align="center">
-  <b>SQA at Koy Jabo &bull; Manual QA &bull; Test Automation (Playwright &amp; Python) &bull; API Testing (Postman) &bull; Performance &amp; Load Testing (JMeter)</b>
+  <b>Tanzim SQA &bull; Manual Testing &bull; Test Automation (Playwright &amp; Python) &bull; API Testing (Postman) &bull; Performance Testing (JMeter)</b>
+</p>
+<p align="center">
+  Official GitHub Profile &bull; Connect on <a href="https://www.linkedin.com/in/tanzimsqa/"><b>LinkedIn: Tanzim Rahman (Tanzim SQA)</b></a> &bull; Portfolio: <a href="https://tanzimsqa.github.io/"><b>tanzimsqa.github.io</b></a>
 </p>
 
 <p align="center">
