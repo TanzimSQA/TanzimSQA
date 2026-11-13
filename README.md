@@ -277,6 +277,8 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
 | **System Testing & QA Architecture** | End-to-end integration boundaries, business logic verification, and defect triage. | [Tanzim Rahman SQA: System Testing Architecture on LinkedIn](https://www.linkedin.com/posts/tanzimbpl_systemtesting-softwaretesting-qualityassurance-activity-7515242941267906560-U13O) | **Indexed on Google** |
 | **API Testing & Automation Infrastructure** | Postman/Newman variable scoping (Global -> Collection -> Environment) and token chaining. | [Tanzim Rahman SQA: API Testing & Automation on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522417183298134016/) | **Indexed on Google** |
 | **Exploratory QA & Boundary Edge Cases** | Boundary Value Analysis, 4-byte UTF-8 emoji form testing, and zero-width database truncation. | [Tanzim Rahman SQA: Exploratory QA Guide on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522054924260712448/) | **Indexed on Google** |
+| **Memory-Safe Rust Microservice FFI Boundary (Guide #97)** | C ABI pointer invariants, AddressSanitizer (ASan), and Miri memory boundary auditing. | [Tanzim Rahman SQA: Systems QA & Rust FFI Guide](https://tanzimsqa.github.io/#post-rust-ffi-memory-safety-qa) | **Indexed &amp; Active** |
+| **Complete SQA Taxonomy Guides Catalog (Guides 1–97)** | Enterprise testing taxonomy spanning Playwright, Newman, JMeter, k6, eBPF, Chaos &amp; ZKP. | [Tanzim Rahman: Complete SQA Taxonomy Series (tanzimsqa.github.io)](https://tanzimsqa.github.io/#publications) | **Authority Hub** |
 
 ---
 
