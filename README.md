@@ -26,9 +26,12 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
 
 <p align="center">
-  🌐 <b>Official Identity, Search Authority &amp; Professional Verification:</b><br />
-  <a href="https://www.linkedin.com/in/tanzimsqa/" rel="me"><b>Tanzim Rahman (TanzimSQA) | Tanzim SQA &bull; Tanzim Rahman SQA on LinkedIn</b></a> &bull; 
-  <a href="https://tanzimsqa.github.io/"><b>Official Portfolio: tanzimsqa.github.io</b></a>
+  🌐 <b>Tanzim Rahman Official Accounts &amp; Verified Profiles:</b><br />
+  <a href="https://tanzimsqa.github.io/"><b>Portfolio: Tanzim Rahman</b></a> &bull; 
+  <a href="https://www.linkedin.com/in/tanzimsqa/" rel="me"><b>LinkedIn: Tanzim Rahman</b></a> &bull; 
+  <a href="https://github.com/TanzimSQA" rel="me"><b>GitHub: Tanzim Rahman</b></a> &bull; 
+  <a href="https://www.facebook.com/tanzim.rahman.sqa/" rel="me"><b>Facebook: Tanzim Rahman</b></a> &bull; 
+  <a href="https://www.instagram.com/tanzim.sqa" rel="me"><b>Instagram: Tanzim Rahman</b></a>
 </p>
 
 </div>
