@@ -28,6 +28,7 @@
 <p align="center">
   🌐 <b>Tanzim Rahman Official Accounts &amp; Verified Profiles:</b><br />
   <a href="https://tanzimsqa.github.io/"><b>Portfolio: Tanzim Rahman</b></a> &bull; 
+  <a href="https://tanzimsqa.github.io/accounts/"><b>Accounts Directory</b></a> &bull; 
   <a href="https://www.linkedin.com/in/tanzimsqa/" rel="me"><b>LinkedIn: Tanzim Rahman</b></a> &bull; 
   <a href="https://github.com/TanzimSQA" rel="me"><b>GitHub: Tanzim Rahman</b></a> &bull; 
   <a href="https://www.facebook.com/tanzim.rahman.sqa/" rel="me"><b>Facebook: Tanzim Rahman</b></a> &bull; 
@@ -50,7 +51,7 @@
 
 ## 🌟 About Me
 
-I am a detail-oriented **Software Quality Assurance (SQA) Engineer** at **Koy Jabo**, dedicated to ensuring digital products are reliable, secure, and intuitive before they ever reach the end user.
+**Tanzim Rahman** is a detail-oriented **Software Quality Assurance (SQA) Engineer** at **Koy Jabo**, dedicated to ensuring digital products are reliable, secure, high-performance, and intuitive before they ever reach the end user.
 
 With a strong foundation in both functional and non-functional testing alongside an analytical background in Economics, I specialize in dissecting complex requirements into comprehensive test strategies—uncovering critical edge cases, validating business logic, and preventing regressions. In addition to core manual testing, I bring hands-on experience in API testing (Postman/Newman), performance & load testing (Apache JMeter), and security testing (OWASP, vulnerability assessments).
 
