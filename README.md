@@ -21,6 +21,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TanzimSQA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanzimSQA)
 [![Facebook](https://img.shields.io/badge/Facebook-tanzim.rahman.sqa-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanzim.rahman.sqa/)
 [![Instagram](https://img.shields.io/badge/Instagram-tanzim.sqa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanzim.sqa)
+[![ZeroDefect Hub](https://img.shields.io/badge/ZeroDefect_Hub-Community_Lead-00B4D8?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ZeroDefectHub)
 [![Portfolio Drive](https://img.shields.io/badge/Google_Drive-Master_Portfolio-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D)
 [![Email](https://img.shields.io/badge/Email-tanzimsqa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanzimsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801992321575-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801992321575)
@@ -32,7 +33,8 @@
   <a href="https://www.linkedin.com/in/tanzimsqa/" rel="me"><b>LinkedIn: Tanzim Rahman</b></a> &bull; 
   <a href="https://github.com/TanzimSQA" rel="me"><b>GitHub: Tanzim Rahman</b></a> &bull; 
   <a href="https://www.facebook.com/tanzim.rahman.sqa/" rel="me"><b>Facebook: Tanzim Rahman</b></a> &bull; 
-  <a href="https://www.instagram.com/tanzim.sqa" rel="me"><b>Instagram: Tanzim Rahman</b></a>
+  <a href="https://www.instagram.com/tanzim.sqa" rel="me"><b>Instagram: Tanzim Rahman</b></a> &bull; 
+  <a href="https://www.facebook.com/ZeroDefectHub" rel="me"><b>ZeroDefect Hub: Community Page</b></a>
 </p>
 
 </div>
@@ -43,7 +45,7 @@
 
 | 🏢 Current Role | 🧪 Test Coverage | 🤖 Automation Framework | ⚡ CI/CD Execution |
 | :---: | :---: | :---: | :---: |
-| **SQA at Koy Jabo** | **280+ Executed Cases** | **Playwright + Pytest (POM)** | **Daily Scheduled Runs** |
+| **SQA at Koy Jabo** | **350+ Executed Cases** | **Playwright + Pytest (POM)** | **Daily Scheduled Runs** |
 
 </div>
 
@@ -59,7 +61,7 @@ I approach software quality through both a user-centric lens and a systematic, r
 
 ### 🔹 What I Bring to a Team:
 - 🧪 **Manual & Functional Testing**: Smoke, Sanity, Regression, UI/UX, Cross-Browser & Mobile Testing.
-- 📡 **API & Backend Validation**: Postman, Newman, REST API testing & status/schema verification.
+- 📡 **API & Backend Validation**: Postman, Newman, REST API testing, Pydantic v2 contract validation & status/schema verification.
 - 🤖 **Automation & CI/CD**: Scalable Page Object Model (POM) frameworks using **Python + Playwright + Pytest**, integrated with **GitHub Actions**.
 - ⚡ **Performance & Stress Testing**: JMeter test plans, load/stress analysis, response time benchmarking.
 - 🛡️ **Security Awareness**: OWASP ZAP, Burp Suite, vulnerability identification, Certified Ethical Hacker (CEH) foundation.
@@ -108,7 +110,29 @@ An enterprise-grade, end-to-end automated test framework engineered for [SauceDe
 
 ---
 
-### 2️⃣ [Manual Testing for Bangladesh Railway Web Application](https://github.com/TanzimSQA/Manual-Testing-For-BANGLADESH-Railway-Web-Application)
+### 2️⃣ [Playwright API Automation Testing Framework](https://github.com/TanzimSQA/playwright-api-testing-framework)
+
+<div align="left">
+
+[![API Tests CI](https://github.com/TanzimSQA/playwright-api-testing-framework/actions/workflows/api_tests.yml/badge.svg)](https://github.com/TanzimSQA/playwright-api-testing-framework/actions/workflows/api_tests.yml)
+[![Live API Report](https://img.shields.io/badge/Live_API_Report-GitHub_Pages-brightgreen?style=flat-square&logo=github)](https://tanzimsqa.github.io/playwright-api-testing-framework/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Playwright](https://img.shields.io/badge/Playwright_API-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
+[![Pydantic v2](https://img.shields.io/badge/Pydantic-v2_Schema-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
+
+</div>
+
+A production-ready REST API test automation framework targeting DummyJSON built with Python, Playwright `APIRequestContext`, Pytest, and Pydantic v2 strict contract validation.
+
+- **Strict Schema Enforcement**: Validates JSON response bodies against strict Pydantic v2 models, preventing silent schema drifts.
+- **Complete CRUD & Auth Lifecycle**: Automated coverage for user authentication, token chaining, resource creation, nested queries, and HTTP error boundaries (400, 401, 404).
+- **CI/CD Integration**: Executes automated test matrix on GitHub Actions with automated deployment of detailed HTML execution reports.
+- 🔗 **Live Report**: [View Live API Test Report](https://tanzimsqa.github.io/playwright-api-testing-framework/)
+- 💻 **Source Code**: [TanzimSQA/playwright-api-testing-framework](https://github.com/TanzimSQA/playwright-api-testing-framework)
+
+---
+
+### 3️⃣ [Manual Testing for Bangladesh Railway Web Application](https://github.com/TanzimSQA/Manual-Testing-For-BANGLADESH-Railway-Web-Application)
 
 <div align="left">
 
@@ -129,6 +153,24 @@ A thorough quality assurance audit of the national [Bangladesh Railway e-Ticketi
 
 ---
 
+### 4️⃣ [ReqRes REST API Testing with Postman & Newman](https://github.com/TanzimSQA/reqres-postman-api-testing)
+
+<div align="left">
+
+[![Postman](https://img.shields.io/badge/Postman-v11_Collection-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/TanzimSQA/reqres-postman-api-testing)
+[![Newman](https://img.shields.io/badge/Newman_CLI-Automated_Runner-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/TanzimSQA/reqres-postman-api-testing)
+[![CI Pipeline](https://img.shields.io/badge/GitHub_Actions-Automated_CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/TanzimSQA/reqres-postman-api-testing)
+
+</div>
+
+Automated REST API test suite engineered with Postman Collections, dynamic test scripts, environment token propagation, and headless Newman CLI runner integration.
+
+- **Dynamic Assertions**: Response time benchmarks (< 500ms), JSON Schema validation, header verification, and status code contract assertions.
+- **Automated CLI Run**: Integrated into GitHub Actions CI pipeline executing Newman runs on every commit.
+- 💻 **Source Code**: [TanzimSQA/reqres-postman-api-testing](https://github.com/TanzimSQA/reqres-postman-api-testing)
+
+---
+
 ## 📂 Live QA Deliverables & Sample Works
 
 Direct access to structured test deliverables, workbooks, and proof-of-concept projects:
@@ -137,7 +179,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
 | :--- | :--- | :---: |
 | 📋 **Manual Testing & Test Cases** | Detailed test suites, preconditions, test data, actual results & RTM | [📁 View Test Cases](https://drive.google.com/drive/folders/1n0_1rK1zHqPZjzSk22RyUpF4lextE-MZ?usp=sharing) |
 | ⚡ **Performance & Load Testing** | Apache JMeter test plans (`.jmx`), thread groups, throughput & latency reports | [📁 View JMeter Work](https://drive.google.com/drive/folders/1tTRZMvNXZ-s7i7ESPUNWg9mI7Z_Em_Tt?usp=sharing) |
-| 🔌 **API Testing (Postman)** | Postman Collections, environment variables, assertion tests & Newman runner | [📁 View API Tests](https://drive.google.com/drive/folders/1SggjOGTP8jgQEtYiCPi5yO3cbfKpGI2P?usp=sharing) |
+| 🔌 **API Testing (Postman & Newman)** | Postman Collections, environment variables, assertion tests & Newman runner | [📁 View API Tests](https://drive.google.com/drive/folders/1SggjOGTP8jgQEtYiCPi5yO3cbfKpGI2P?usp=sharing) |
 | 🌐 **Web Automation Testing** | Web automation scripts, assertions, cross-browser validation & POM code | [📁 View Web Automation](https://drive.google.com/drive/folders/1fDVjgI1B3xm26aLncDAqZBuB9ySttcLa?usp=sharing) |
 | 📱 **Mobile Automation Testing** | Mobile application testing artifacts, device flows & UI test automation | [📁 View Mobile Automation](https://drive.google.com/drive/folders/1OqfqJBr21r7Mpis08ZQEjSZ3wfxoxuBz?usp=sharing) |
 | 🗂️ **Master Portfolio Hub** | Complete repository of all QA documentation, certifications & artifacts | [📁 Browse Master Drive](https://drive.google.com/drive/folders/1pKx41mZC4OEFDDZoRBgoRPsGCJDE2p5D) |
@@ -165,7 +207,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-      <code>Page Object Model (POM)</code> &bull; <code>pytest-html</code>
+      <code>Page Object Model (POM)</code> &bull; <code>pytest-html</code> &bull; <code>Pydantic v2</code>
     </td>
   </tr>
   <tr>
@@ -174,7 +216,7 @@ Direct access to structured test deliverables, workbooks, and proof-of-concept p
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />
-      <code>REST APIs</code> &bull; <code>JSON</code> &bull; <code>Response Assertions</code>
+      <code>REST APIs</code> &bull; <code>JSON Schema</code> &bull; <code>Response Assertions</code>
     </td>
   </tr>
   <tr>
@@ -304,6 +346,10 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
   <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
+<a href="https://www.facebook.com/ZeroDefectHub">
+  <img src="https://img.shields.io/badge/ZeroDefect_Hub-Facebook_Page-00B4D8?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;
 <a href="mailto:tanzimsqa@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -334,6 +380,7 @@ I am actively open to **Junior / Mid SQA Engineer roles**, **Software Testing pr
     <a href="https://tanzimsqa.github.io/">Software Quality Assurance</a> &bull; 
     <a href="https://www.linkedin.com/company/koy-jabo">Koy Jabo SQA</a> &bull; 
     Playwright Automation &bull; 
-    Postman API Testing
+    Postman API Testing &bull;
+    <a href="https://www.facebook.com/ZeroDefectHub">ZeroDefect Hub</a>
   </sub>
 </div>
